@@ -1,1 +1,1 @@
-# test-app
+# for testing purposes only
